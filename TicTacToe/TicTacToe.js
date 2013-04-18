@@ -1,1 +1,3 @@
-d
+var HumanPlayer = function() {
+
+};
