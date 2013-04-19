@@ -3,6 +3,7 @@
   margin-left: auto;
   margin-right: auto;
   height: 40px;
+  border: 1px solid black;
 
 
 }
@@ -12,14 +13,13 @@ button.reset {
 }
 
 td {
+  border: 1px solid black;
   background: gray;
   width: 200px;
   margin-bottom: 0px;
 }
 
 td.highlight {
-  border-color: yellow;
-  border-width: 5px;
   background: green;
 }
 

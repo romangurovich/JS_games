@@ -1,0 +1,24 @@
+td {
+  width: 20px;
+  height: 20px;
+  background: #D3DBA7;
+  border: 1px dotted black;
+  margin: 0px;
+  padding: 0px;
+}
+
+tr {
+  padding: 0px;
+}
+
+.fruit {
+  background: green;
+}
+
+.snake {
+  background: red;
+}
+
+.empty {
+  background: #D3DBA7;
+}
