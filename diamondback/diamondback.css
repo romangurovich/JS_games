@@ -1,7 +1,6 @@
 td {
   width: 20px;
   height: 20px;
-  background: #D3DBA7;
   border: 1px dotted black;
   margin: 0px;
   padding: 0px;
@@ -21,4 +20,8 @@ tr {
 
 .empty {
   background: #D3DBA7;
+}
+
+.shit {
+  background: blue;
 }
